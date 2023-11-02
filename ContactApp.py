@@ -7,7 +7,7 @@ class Contact:
 		self.number = number
 		self.email = email
 
-contacts = [Contact("Panchito", 1432432434, "panchito@gmail.com")]
+contacts = [Contact("zkcode99", 1432432434, "zkcode99@gmail.com"), Contact("Ezequiel", 3423532532, "ezzz@gmail.com")]
 
 def menu_principal():
 	while True:
